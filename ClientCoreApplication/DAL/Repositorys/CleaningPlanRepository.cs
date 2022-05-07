@@ -23,7 +23,7 @@ namespace DAL.Repositorys
             plan.CustomerId = customer.CustomerId;
             plan.Title = customer.Title;
             plan.Description = customer.Description;
-            plan.CreationDate = DateTime.Now;
+           
             var result = await cDbContext.CleaningPlans.AddAsync(plan);
             await cDbContext.SaveChangesAsync();
             return result.Entity;
