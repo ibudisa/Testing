@@ -1,0 +1,8 @@
+<Playlist Version="1.0"><Add Test="APITest.DiffControllerTests.EmptyTables" />
+<Add Test="APITest.DiffControllerTests.EmptyTables" />
+<Add Test="APITest.DiffControllerTests.CreateLeftData_CreatedStatus_PassingLeftDataObjectToCreate" />
+<Add Test="APITest.DiffControllerTests.GetDiffsLeftOnlyExists" />
+<Add Test="APITest.DiffControllerTests.CreateRightData_CreatedStatus_PassingRightDataObjectToCreate" />
+<Add Test="APITest.DiffControllerTests.GetDiffsLeftAndRightExist" />
+<Add Test="APITest.DiffControllerTests.UpdateRightData_UpdatedStatus_PassingRightDataObjectToUpdate" />
+<Add Test="APITest.DiffControllerTests.GetDiffsLeftAndRightSameSize" /></Playlist>

@@ -1,0 +1,8 @@
+The project contains 4 subprojects- DiffApiCore is the main asp.net core web api project,
+DAL contains classes for database using entity framework database first approach and also
+other classes for comparing data. APITest is unit test project and contains test for testing
+controller methods. APIIntegrationTest contains integration tests.
+I also created script for creating database and it will of course needed to change the path where the database will be created.
+Tests both unit and integration need to be executed in order like they are written in test class because they
+use data from database. I tested it and they were all passing.
+Before I wrote tests I tested application with postman and responses were correct.
