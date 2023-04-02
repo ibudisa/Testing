@@ -21,3 +21,16 @@ C:\Users\ibudi\source\repos\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.C
 C:\Users\ibudi\source\repos\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.dll
 C:\Users\ibudi\source\repos\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
 C:\Users\ibudi\source\repos\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\ibudi\OneDrive\Dokumenti\GitHub\Testing\DiffAPICore\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

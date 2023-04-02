@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yzcrw/WfEbkJm7vT1E/rXy9XRwBltNXvRtTFzRzr0cOqQGK1xK5vkl8or9mYkASJpo0w5oi42aUNWZWJ+TfOqw==",
+  "dgSpecHash": "qdsL6T5hmFsV+84wymxFX/daN99Hq7GBs9GA3bm97CHSaVdtD4QYP3zBjgjgxnzslebjmJAfjCTIFsrRKMkF3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibudi\\source\\repos\\DiffAPICore\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\DiffAPICore\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

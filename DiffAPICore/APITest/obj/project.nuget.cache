@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2jUoD+Z9kHkEoaQQeFFTRIl4bedPx1daYrj2d5vzXzY5Jj4IhjiI+xmO8kq19Rw0ob1ycjzhW+ztjlRvwMBSKw==",
+  "dgSpecHash": "m+fw4SoLbRP5fQJEHu97m2f2roYC/vb/ZbdM4C0/5YcdQ+TYvgmyUcnfvAkuQJbwI0g3F0THtZXDg3uHjDFt0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibudi\\source\\repos\\DiffAPICore\\APITest\\APITest.csproj",
+  "projectFilePath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\DiffAPICore\\APITest\\APITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibudi\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\autofac.extras.moq\\6.1.0\\autofac.extras.moq.6.1.0.nupkg.sha512",

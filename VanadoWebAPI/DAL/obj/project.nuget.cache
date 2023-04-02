@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lx0mCRpcHneJO8AcXvdflNUUoN5xDs4e1F2vU4L4UqOBFQLtCdWxDVXJO8l0UCRCA4w7FyLHt3Wo8n2/LDuMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibudi\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ibudi\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\ibudi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

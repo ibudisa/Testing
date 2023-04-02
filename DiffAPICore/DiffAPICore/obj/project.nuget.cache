@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2O7MoLrcuQkwB98faYvcdQqS2vl91/nFimRjkUyplZ7yYXouJPyRp5ApYq4boruwJ+a7KwmLZ5vYaYfbDHZszw==",
+  "dgSpecHash": "f6/0CUq0GiVazzUBWXSK4RMGduGykhumFZCgAWT4NPSV8c3oqP3Ug+btBq6j8VJGuf4ICVBDItURJu7X84MLbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibudi\\source\\repos\\DiffAPICore\\DiffAPICore\\DiffAPICore.csproj",
+  "projectFilePath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\DiffAPICore\\DiffAPICore\\DiffAPICore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -91,7 +91,8 @@
     "C:\\Users\\ibudi\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ibudi\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\ibudi\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
