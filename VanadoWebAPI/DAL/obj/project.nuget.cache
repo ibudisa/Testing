@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9lx0mCRpcHneJO8AcXvdflNUUoN5xDs4e1F2vU4L4UqOBFQLtCdWxDVXJO8l0UCRCA4w7FyLHt3Wo8n2/LDuMA==",
+  "dgSpecHash": "2J1Cvwu8BHr03aIbRja/Od20yjQnLkP4xdwi4EYGhgvS8SRgl838YACMm/X2/WDxmQeuTthAzU43kca29fMLsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibudi\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

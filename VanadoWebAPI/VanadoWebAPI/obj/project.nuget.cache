@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dvov/qMWVV5zRfqhGJfyzSrlzz5F10KzpqpsjMlbVNT7/3t1VYTiF0Oz0vtGjOmrKsb/2ikBrEFlQ8NuB/Ppxw==",
+  "dgSpecHash": "fQ1WolbAJZiGXBh7EmEg5zehPLD/8QoNwrw6kuGP9hsI17vTQv4JS+0+G2gGtBLUX//SnJUfKAH0pAugu4vDbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibudi\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\ibudi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

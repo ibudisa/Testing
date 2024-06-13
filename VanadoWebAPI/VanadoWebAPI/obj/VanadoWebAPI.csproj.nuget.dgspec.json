@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj": {}
+    "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj": {
+    "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\ibudi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj": {
+    "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj",
         "projectName": "VanadoWebAPI",
-        "projectPath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj",
+        "projectPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\VanadoWebAPI\\VanadoWebAPI.csproj",
         "packagesPath": "C:\\Users\\ibudi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\VanadoWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\VanadoWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\ibudi\\source\\repos\\VanadoWebAPI\\DAL\\DAL.csproj"
+              "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\VanadoWebAPI\\DAL\\DAL.csproj"
               }
             }
           }
