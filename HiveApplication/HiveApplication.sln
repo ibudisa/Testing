@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiveApplication", "HiveApplication\HiveApplication.csproj", "{66270607-E31C-49CD-98E4-0D7822A390BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0C3C05FF-E0F2-49C7-A2E0-4DAD8E081BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66270607-E31C-49CD-98E4-0D7822A390BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66270607-E31C-49CD-98E4-0D7822A390BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66270607-E31C-49CD-98E4-0D7822A390BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66270607-E31C-49CD-98E4-0D7822A390BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3C05FF-E0F2-49C7-A2E0-4DAD8E081BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3C05FF-E0F2-49C7-A2E0-4DAD8E081BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3C05FF-E0F2-49C7-A2E0-4DAD8E081BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3C05FF-E0F2-49C7-A2E0-4DAD8E081BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB1F9FF-37DA-49F4-B624-607DCF92616A}
+	EndGlobalSection
+EndGlobal
