@@ -1,0 +1,49 @@
+name: todo
+networks:
+  demoappnetwork:
+services:
+ usersapi:
+    image: ${DOCKER_REGISTRY-}usersapi
+    container_name: "usersapi-container"
+    build: 
+      context: .
+      dockerfile: UsersAPI/Dockerfile
+    ports:
+      - "8004:80"
+    depends_on:
+      - db
+    restart: always
+    networks:
+       - "demoappnetwork"
+    environment:
+      - DBHOST=db
+      - ASPNETCORE_ENVIROMENT=Development
+
+ db:
+    image: mysql:8.0
+    container_name: mysql-container
+    ports: 
+      - "8003:3306"
+    networks:
+      - "demoappnetwork"
+    volumes:
+      - todo-mysql-data:/var/lib/mysql
+    environment: 
+      MYSQL_ROOT_PASSWORD: dlswer_2asdlkj
+      MYSQL_DATABASE: userdata
+
+volumes:
+  todo-mysql-data:
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+

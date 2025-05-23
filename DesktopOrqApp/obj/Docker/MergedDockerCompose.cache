@@ -1,0 +1,81 @@
+name: dockercompose12543801902125522328
+services:
+  db:
+    container_name: mysql-container
+    environment:
+      MYSQL_DATABASE: userdata
+      MYSQL_ROOT_PASSWORD: dlswer_2asdlkj
+    image: mysql:8.0
+    networks:
+      demoappnetwork: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "8003"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: todo-mysql-data
+        target: /var/lib/mysql
+        volume: {}
+  usersapi:
+    build:
+      context: C:\Users\ibudi\source\repos\DesktopOrqApp
+      dockerfile: UsersAPI/Dockerfile
+    container_name: usersapi-container
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIROMENT: Development
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "80"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      DBHOST: db
+    image: usersapi
+    networks:
+      demoappnetwork: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8004"
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: bind
+        source: C:\Users\ibudi\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\ibudi\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\ibudi\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\ibudi\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  demoappnetwork:
+    name: dockercompose12543801902125522328_demoappnetwork
+volumes:
+  todo-mysql-data:
+    name: dockercompose12543801902125522328_todo-mysql-data

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\usersapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|solutionrelative:usersapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\usersapi\\controllers\\workpositioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|solutionrelative:usersapi\\controllers\\workpositioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\usersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|solutionrelative:usersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\repositorys\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\repositorys\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\repositorys\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\repositorys\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\desktoporqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|solutionrelative:desktoporqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\usersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}|UsersAPI\\UsersAPI.csproj|solutionrelative:usersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\entities\\workposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\workposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\entities\\user_userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user_userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\entities\\user_workposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user_workposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\entities\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\dal\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944BC2E-3077-482B-8B81-3F0AFDD190D1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Migrations\\20250401151152_MigrationV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250401151152_MigrationV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Migrations\\20250401150340_MigrationV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250401150340_MigrationV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\desktoporqapp\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|solutionrelative:desktoporqapp\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\desktoporqapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|solutionrelative:desktoporqapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|c:\\users\\ibudi\\source\\repos\\desktoporqapp\\desktoporqapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A66D702B-E016-46CE-90E0-64B78E8E03BB}|DesktopOrqApp\\DesktopOrqApp.csproj|solutionrelative:desktoporqapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "UsersAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\Dockerfile",
+              "RelativeToolTip": "UsersAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T12:57:28.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkPositionController.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\Controllers\\WorkPositionController.cs",
+              "RelativeDocumentMoniker": "UsersAPI\\Controllers\\WorkPositionController.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\Controllers\\WorkPositionController.cs",
+              "RelativeToolTip": "UsersAPI\\Controllers\\WorkPositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:22:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Repositorys\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositorys\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Repositorys\\IDataRepository.cs",
+              "RelativeToolTip": "DAL\\Repositorys\\IDataRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:43:00.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Repositorys\\DataRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositorys\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Repositorys\\DataRepository.cs",
+              "RelativeToolTip": "DAL\\Repositorys\\DataRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:54:02.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\Program.cs",
+              "RelativeDocumentMoniker": "DesktopOrqApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\Program.cs",
+              "RelativeToolTip": "DesktopOrqApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:58:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UsersAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\Program.cs",
+              "RelativeToolTip": "UsersAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:47:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkPosition.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\WorkPosition.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\WorkPosition.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\WorkPosition.cs",
+              "RelativeToolTip": "DAL\\Entities\\WorkPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:53:23.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:41:38.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User_UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\User_UserRole.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User_UserRole.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\User_UserRole.cs",
+              "RelativeToolTip": "DAL\\Entities\\User_UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:45:36.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\UsersAPI\\appsettings.json",
+              "RelativeToolTip": "UsersAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T18:50:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\UserDBContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:44:03.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_WorkPosition.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\User_WorkPosition.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User_WorkPosition.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\User_WorkPosition.cs",
+              "RelativeToolTip": "DAL\\Entities\\User_WorkPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:12:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Entities\\UserRole.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:45:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250401151152_MigrationV1.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Migrations\\20250401151152_MigrationV1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250401151152_MigrationV1.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Migrations\\20250401151152_MigrationV1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250401151152_MigrationV1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:11:52.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250401150340_MigrationV1.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Migrations\\20250401150340_MigrationV1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250401150340_MigrationV1.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DAL\\Migrations\\20250401150340_MigrationV1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250401150340_MigrationV1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:03:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "DesktopOrqApp\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\Services\\LoginService.cs",
+              "RelativeToolTip": "DesktopOrqApp\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:31:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "DesktopOrqApp\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "DesktopOrqApp\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T14:24:03.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "DesktopOrqApp\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\DesktopOrqApp\\DesktopOrqApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "DesktopOrqApp\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:23:59.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

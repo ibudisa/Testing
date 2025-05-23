@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopOrqApp", "DesktopOrqApp\DesktopOrqApp.csproj", "{A66D702B-E016-46CE-90E0-64B78E8E03BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersAPI", "UsersAPI\UsersAPI.csproj", "{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{4944BC2E-3077-482B-8B81-3F0AFDD190D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66D702B-E016-46CE-90E0-64B78E8E03BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66D702B-E016-46CE-90E0-64B78E8E03BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66D702B-E016-46CE-90E0-64B78E8E03BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66D702B-E016-46CE-90E0-64B78E8E03BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06ED5D1-7D41-4760-86D2-51B135DD1AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4944BC2E-3077-482B-8B81-3F0AFDD190D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4944BC2E-3077-482B-8B81-3F0AFDD190D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4944BC2E-3077-482B-8B81-3F0AFDD190D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4944BC2E-3077-482B-8B81-3F0AFDD190D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC82D1F-5BD9-4D7E-ADF3-FA32CA189007}
+	EndGlobalSection
+EndGlobal

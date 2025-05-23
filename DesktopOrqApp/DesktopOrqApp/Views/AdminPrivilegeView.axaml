@@ -1,0 +1,83 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 xmlns:ui="using:FluentAvalonia.UI.Controls"
+             xmlns:vm="using:DesktopOrqApp.ViewModels"
+			 x:DataType="vm:AdminPrivilegeViewModel"
+             x:Class="DesktopOrqApp.AdminPrivilegeView">
+  <Design.DataContext>
+    <vm:AdminPrivilegeViewModel/>
+  </Design.DataContext>
+  <ScrollViewer Padding="20">
+    <StackPanel Spacing="20">
+
+      <StackPanel Spacing="10">
+        <TextBlock Text="Data Grid"
+						   FontWeight="Bold"
+						   FontSize="24"/>
+        <Separator/>
+      </StackPanel>
+      <Grid RowDefinitions="*,Auto">
+
+        <DataGrid Name="TestGrid" x:DataType="vm:AdminPrivilegeViewModel" Grid.Row="0"
+						  ItemsSource="{Binding Wpositions}"
+						  AutoGenerateColumns="False"
+              Background="WhiteSmoke">
+          <DataGrid.Columns>
+            <DataGridCheckBoxColumn Header="Selected"
+												Binding="{Binding IsSelected}"
+												Width="Auto"/>
+            <DataGridTextColumn Header="Id"
+                     Width="*"
+                     Binding="{Binding Id}" />
+            <DataGridTextColumn Header="Name"
+											Width="*"
+											Binding="{Binding Name}" />
+            <DataGridTextColumn Header="Description"
+											Width="*"
+											Binding="{Binding Description}" />
+          </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="1"
+							HorizontalAlignment="Right"
+							Spacing="10"
+							Margin="20 20 0 0">
+          <StackPanel Orientation="Horizontal"
+								Spacing="10">
+
+            <TextBox Text="{Binding NewWPositionName, Mode=TwoWay}"
+								 Watermark="Name" Background="WhiteSmoke"
+								Width="200"/>
+
+   
+            <TextBox Text="{Binding NewWPositionDescription, Mode=TwoWay}"
+								 Watermark="Description" Background="WhiteSmoke"/>
+
+
+            <Button Content="Add Work Position"
+								Command="{Binding AddWPositionCommand}"
+                Background="Aqua"    />
+
+          </StackPanel>
+
+          <Button Content="Delete Selected Work Position"
+							Command="{Binding DeleteSelectedWPositionCommand}"
+							HorizontalAlignment="Right"
+              Background="Aqua"    />
+
+          <Button Content="Update Selected Work Position"
+							Command="{Binding UpdateWPositionCommand}"
+							HorizontalAlignment="Right"
+              Background="Aqua"    />
+          <TextBlock Text="{Binding ErrorMessage}" HorizontalAlignment="Center" Foreground="IndianRed" FontSize="18"></TextBlock>
+
+        </StackPanel>
+      </Grid>
+    </StackPanel>
+
+  </ScrollViewer>
+</UserControl>
+
