@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\source\\repos\\ClientCoreApplication\\DAL\\DAL.csproj": {}
+    "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\ClientCoreApplication\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\source\\repos\\ClientCoreApplication\\DAL\\DAL.csproj": {
+    "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\ClientCoreApplication\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\source\\repos\\ClientCoreApplication\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\ClientCoreApplication\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Ivan\\source\\repos\\ClientCoreApplication\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\source\\repos\\ClientCoreApplication\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\ClientCoreApplication\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\ibudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibudi\\OneDrive\\Dokumenti\\GitHub\\Testing\\ClientCoreApplication\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ibudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.AutoHistory": {
               "target": "Package",
@@ -76,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     }
