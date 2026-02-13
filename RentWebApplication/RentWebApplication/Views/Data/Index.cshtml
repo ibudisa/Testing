@@ -1,0 +1,76 @@
+﻿@model List<RentWebApplication.Models.ObjectInfo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="https://cdn.datatables.net/v/dt/dt-2.3.7/datatables.min.css" rel="stylesheet" integrity="sha384-wCnlGUpaekN+Mtc+qIoipdqIqe2dvC7hWyzVg8wajZ1sxKnVTbnyBd7pyx7JT0Su" crossorigin="anonymous">
+<script src="https://cdn.datatables.net/v/dt/dt-2.3.7/datatables.min.js" integrity="sha384-aQ8I1X2x8U0AR8D7C4Ah0OvZlwMslQdN5YDAQBA56jXrrhcECijs/i7H+5DDrlV1" crossorigin="anonymous"></script>
+
+<h2>Index</h2>
+<table id="tableobject" class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Object type
+            </th>
+            <th>
+                City
+            </th>
+            <th>
+                Country
+            </th>
+            <th>
+                Sleep optimal
+            </th>
+            <th>
+                Sleep max
+            </th>
+            <th>
+                Picture main
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.object_type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.city_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.country)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.can_sleep_optimal)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.can_sleep_max)
+                </td>
+                <td>
+                    <img src="@Url.Content(item.picutre_main_url)" width="100" height="50" />
+                </td>
+
+                <td>
+                    <a asp-action="Details" asp-route-id_hash="@item.id_hash">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    $(document).ready(function () {
+        $("#tableobject").DataTable();
+    });
+</script>

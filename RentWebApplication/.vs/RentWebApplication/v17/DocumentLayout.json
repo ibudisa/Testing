@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|c:\\users\\ibudi\\source\\repos\\rentwebapplication\\rentwebapplication\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|solutionrelative:rentwebapplication\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|c:\\users\\ibudi\\source\\repos\\rentwebapplication\\rentwebapplication\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|solutionrelative:rentwebapplication\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|c:\\users\\ibudi\\source\\repos\\rentwebapplication\\rentwebapplication\\views\\data\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|solutionrelative:rentwebapplication\\views\\data\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|c:\\users\\ibudi\\source\\repos\\rentwebapplication\\rentwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|solutionrelative:rentwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|c:\\users\\ibudi\\source\\repos\\rentwebapplication\\rentwebapplication\\models\\objectinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|solutionrelative:rentwebapplication\\models\\objectinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|c:\\users\\ibudi\\source\\repos\\rentwebapplication\\rentwebapplication\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B55097-5AA0-418B-AACF-B3D53AF48E95}|RentWebApplication\\RentWebApplication.csproj|solutionrelative:rentwebapplication\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Views\\Data\\Details.cshtml",
+              "RelativeDocumentMoniker": "RentWebApplication\\Views\\Data\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Views\\Data\\Details.cshtml",
+              "RelativeToolTip": "RentWebApplication\\Views\\Data\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T10:47:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "RentWebApplication\\Views\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "RentWebApplication\\Views\\Data\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T14:05:53.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "RentWebApplication\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Controllers\\DataController.cs",
+              "RelativeToolTip": "RentWebApplication\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:45:53.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Models\\Picture.cs",
+              "RelativeDocumentMoniker": "RentWebApplication\\Models\\Picture.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Models\\Picture.cs",
+              "RelativeToolTip": "RentWebApplication\\Models\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:49:18.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Models\\ObjectInfo.cs",
+              "RelativeDocumentMoniker": "RentWebApplication\\Models\\ObjectInfo.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Models\\ObjectInfo.cs",
+              "RelativeToolTip": "RentWebApplication\\Models\\ObjectInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:47:56.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "RentWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ibudi\\source\\repos\\RentWebApplication\\RentWebApplication\\Program.cs",
+              "RelativeToolTip": "RentWebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T14:59:51.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

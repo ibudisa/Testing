@@ -1,0 +1,109 @@
+﻿@model RentWebApplication.Models.ObjectInfo
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Info</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+        <dt>
+            City
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.city_name)
+        </dd>
+        <dt>
+            Address
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.adress)
+        </dd>
+        <dt>
+            Beds
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.beds)
+        </dd>
+        <dt>
+            Livingrooms
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.livingrooms)
+        </dd>
+        <dt>
+            Bedrooms
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.bedrooms)
+        </dd>
+        <dt>
+            Bathrooms
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.bathrooms)
+        </dd>
+        <dt>
+            Paycard
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.pay_card)
+        </dd>
+        <dt>
+            PayIBAN
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.pay_iban)
+        </dd>
+        <dt>
+            Instantbooking
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.instant_booking)
+        </dd>
+        <dt>
+            PayIBAN
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.pay_iban)
+        </dd>
+        <dt>
+            CheckIn
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.check_in)
+        </dd>
+        <dt>
+            CheckOut
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.check_out)
+        </dd>
+
+    </dl>
+</div>
+</<br />
+</<br />
+<h3>Image gallery</h3>
+@{
+    List<string> l = new List<string>();
+    l=(List<string>)ViewBag.sources;
+    for (var i = 0; i < l.Count; i++)
+    {
+        var s = l[i];
+        <img src="@Url.Content(s)" width="200" height="100" />
+    }
+}
+</<br />
+</<br />
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

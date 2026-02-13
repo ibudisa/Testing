@@ -1,0 +1,68 @@
+﻿@model List<RentWebApplication.Models.ObjectInfo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Index</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Name
+            </th>
+            <th>
+               Object type
+            </th>
+            <th>
+                City
+            </th>
+            <th>
+               Country
+            </th>
+            <th>
+                Sleep optimal
+            </th>
+            <th>
+                Sleep max
+            </th>
+            <th>
+               Picture main url
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.object_type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.city_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.country)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.can_sleep_optimal)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.can_sleep_max)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.picutre_main_url)
+                </td>
+               
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.id_hash">Details</a> |                
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
